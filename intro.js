@@ -46,13 +46,12 @@ closeSlider3.addEventListener('click', function(){
 
 
 // ------audio------------
-// var buttonSong = document.querySelector('.button')
-// var mySong = document.getElementById("song")
-// buttonSong.onclick= function(){
-//     if(mySong.paused){
-//         mySong.play()
-//     }
-// }
+var buttonSong = document.querySelector('.button') var mySong = document.getElementById("song")
+ buttonSong.onclick= function(){
+     if(mySong.paused){
+         mySong.play()
+     }
+ }
 
 
 
